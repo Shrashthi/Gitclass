@@ -1,0 +1,2 @@
+# Gitclass
+For Git practise
